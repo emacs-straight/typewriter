@@ -1,2 +1,2 @@
 ;; Generated package description from typewriter.el  -*- mode: lisp-data; no-byte-compile: t; lexical-binding:t -*-
-(define-package "typewriter" "1.2.0.0.20261001.5" "Turn Emacs into a text adder" '((emacs "30.1")) :commit "74bfc798116778d0efd88e9a6bad861d4a5786a8" :authors '(("Enrico Flor" . "enrico@eflor.net")) :maintainer '("Enrico Flor" . "enrico@eflor.net") :keywords '("wp") :url "https://github.com/enricoflor/typewriter.el")
+(define-package "typewriter" "1.2.1.0.20261002.1" "Turn Emacs into a text adder" '((emacs "30.1")) :commit "85c99b02437fae98da9a035f3e00200202289463" :authors '(("Enrico Flor" . "enrico@eflor.net")) :maintainer '("Enrico Flor" . "enrico@eflor.net") :keywords '("text") :url "https://github.com/enricoflor/typewriter.el")
